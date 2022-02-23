@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e88e4608-bced-46ff-a889-2683bfa53bd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eOZ6muAcFAs6J28sfNS2tpECXN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com.example.encdecsms" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e88e4608-bced-46ff-a889-2683bfa53bd6" name="Default Changelist" comment="" />
+      <created>1594194426328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594194426328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="641" y="354" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1594198893137">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="641" y="354" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1600.873@0.27.1600.873" timestamp="1594198893137" />
+    <state x="383" y="220" width="824" height="484" key="AndroidCreateResourceDirectoryDialog" timestamp="1594196004594">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="383" y="220" width="824" height="484" key="AndroidCreateResourceDirectoryDialog/0.27.1600.873@0.27.1600.873" timestamp="1594196004594" />
+    <state x="649" y="341" width="291" height="271" key="AndroidCreateXmlResourceDialog" timestamp="1594196108578">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="649" y="341" width="291" height="271" key="AndroidCreateXmlResourceDialog/0.27.1600.873@0.27.1600.873" timestamp="1594196108578" />
+    <state x="583" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1594195086589">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="583" y="220" width="424" height="484" key="FileChooserDialogImpl/0.27.1600.873@0.27.1600.873" timestamp="1594195086589" />
+    <state x="283" y="40" width="1024" height="845" key="SettingsEditor" timestamp="1594197527040">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="283" y="40" width="1024" height="845" key="SettingsEditor/0.27.1600.873@0.27.1600.873" timestamp="1594197527040" />
+    <state x="456" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1594198843622">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="456" y="290" key="com.intellij.ide.util.TipDialog/0.27.1600.873@0.27.1600.873" timestamp="1594198843622" />
+  </component>
+</project>
